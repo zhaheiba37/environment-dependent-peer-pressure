@@ -1,0 +1,8 @@
+{
+  "length": 10,
+  "mcs": 100,
+  "tail": 20,
+  "progress_every": 50,
+  "seed": 2026,
+  "snapshots": "0,10,100"
+}
